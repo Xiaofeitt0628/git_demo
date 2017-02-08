@@ -12,6 +12,7 @@ import {
   View
 } from 'react-native';
 
+var myNew = "嘿嘿";
 var Main = require("./component/Main");
 
 export default class DouBanWork extends Component {
