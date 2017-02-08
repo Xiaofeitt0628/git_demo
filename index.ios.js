@@ -11,7 +11,9 @@ import {
   Text,
   View
 } from 'react-native';
-var my = "网络上修改的数据"
+
+
+var my = "网络上修改的数据";
 var myNew = "嘿嘿";
 var you = "领个屁";
 var Main = require("./component/Main");
